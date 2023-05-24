@@ -5,6 +5,13 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"E:/GitHub/Anticipation/Anticipation/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"E:/GitHub/Anticipation/Anticipation/Content/__ExternalActors__/ThirdPerson/Maps/DataLayerPreview_Blockout/9/9Q/KZUDAEVG67ZIGZYFMID0O1.uasset",
+				"E:/GitHub/Anticipation/Anticipation/Content/__ExternalActors__/ThirdPerson/Maps/DataLayerPreview_Blockout/6/KY/1PTG4V5GO8ZNNT99YAPV0H.uasset",
+				"E:/GitHub/Anticipation/Anticipation/Content/__ExternalActors__/ThirdPerson/Maps/DataLayerPreview_Blockout/A/WC/5PU1Y036E9IJQMP9EC0AUM.uasset",
+				"E:/GitHub/Anticipation/Anticipation/Content/__ExternalActors__/ThirdPerson/Maps/DataLayerPreview_Blockout/0/AO/7O05NBNP88JM071GF3AMGK.uasset",
+				"E:/GitHub/Anticipation/Anticipation/Content/__ExternalActors__/ThirdPerson/Maps/DataLayerPreview_Blockout/4/WZ/IW0OHBHYI1O0GWR2VA43NI.uasset",
+				"E:/GitHub/Anticipation/Anticipation/Content/__ExternalActors__/ThirdPerson/Maps/DataLayerPreview_Blockout/4/IK/470U89D4FMAJ5O47D7JG1R.uasset",
 				"E:/Anticipation/Anticipation/Content/StarterContent/Props/MaterialSphere.uasset"
 			]
 		}
